@@ -5,7 +5,7 @@
 ## Password Generator
 
 ```
-Simple password generator written in C
+Simple Password Generator Written in C
 ```
 
 <h3 align="left">Contact:</h3>
